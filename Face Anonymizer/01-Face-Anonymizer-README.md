@@ -4,12 +4,6 @@ Automatically detects and blurs faces in images, videos, and live webcam feed us
 
 ---
 
-## 📸 Demo
-
-> *(Add your demo GIF or screenshot here)*
-
----
-
 ## 🧠 What I Learned
 
 - How MediaPipe's face detection pipeline works under the hood
