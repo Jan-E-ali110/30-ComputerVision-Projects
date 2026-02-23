@@ -22,7 +22,7 @@ I'm a computer vision enthusiast documenting my journey of building 30 real-worl
 | # | Project | Tools Used | Difficulty |
 |---|---------|-----------|------------|
 | 01 | [Face Anonymizer](./01-Face-Anonymizer/) | OpenCV, MediaPipe | ⭐ Beginner |
-| 02 | Coming Soon... | | |
+| 02 | OCR Text Detection | EasyOCR, OpenCV | ⭐⭐ Beginner-Medium |
 | 03 | Coming Soon... | | |
 
 > ⚡ This table grows with every new project. Star the repo to follow along!
