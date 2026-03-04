@@ -24,7 +24,7 @@ I'm **Jan Ali** — a BSAI student at Sindh Madressatul Islam University, Karach
 |---|---------|-------|------------|----------|------|
 | 01 | [Face Anonymizer](./]) | OpenCV, MediaPipe | ⭐ Beginner | [Post](https://www.linkedin.com/posts/jan-ali-jagirani-a364022b7_computervision-opencv-python-activity-7430890120649711616-NtNo) | — |
 | 02 | [OCR Text Detection](./02-OCR-Text-Detection) | EasyOCR, OpenCV | ⭐⭐ Beginner-Medium | [Post](https://www.linkedin.com/posts/jan-ali-jagirani-a364022b7_computervision-ocr-easyocr-activity-7431782786778370048-Ymy5) | — |
-| 03 | [Remove Bg](./https://github.com/Jan-E-ali110/30-ComputerVision-Projects/tree/main/03-REMOVE_BG) | rembg, Streamlit, Pillow | ⭐⭐ Beginner-Medium | [Post](https://www.linkedin.com/posts/jan-ali-jagirani-a364022b7_python-computervision-streamlit-activity-7435019752214794240-bmVP) | [🚀 Live](https://removebg-4rwpzsfhiprwtjsap2bwzf.streamlit.app/) |
+| 03 | [Remove Bg](https://github.com/Jan-E-ali110/30-ComputerVision-Projects/tree/main/03-REMOVE_BG) | rembg, Streamlit, Pillow | ⭐⭐ Beginner-Medium | [Post](https://www.linkedin.com/posts/jan-ali-jagirani-a364022b7_python-computervision-streamlit-activity-7435019752214794240-bmVP) | [🚀 Live](https://removebg-4rwpzsfhiprwtjsap2bwzf.streamlit.app/) |
 | 04 | Coming Soon... | | | | |
 
 > ⚡ Star the repo to follow along — new project every few days!
